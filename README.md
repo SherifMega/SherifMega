@@ -20,3 +20,8 @@ Software Engineer (Web & Mobile Developer) [@Deutsche Telekom](https://www.telek
 - ⚙ Backend (PHP - Laravel - Node Js)
 - 🖥️ Desktop (Java)
 - 🏠 🚗 Embedded/IOT (C/C++ - Embedded C)
+
+<h3>:tropical_fish: Latest Contributions</h3>
+
+- 2022 : React Navigation : [Fix Drawer Navigator Issue](https://github.com/react-navigation/react-navigation/pull/10304)
+- 2023 : Shopify/FlashList : [Fix Inverted Horizontal List Performance Issue](https://github.com/Shopify/flash-list/pull/851)
