@@ -16,7 +16,7 @@
 Software Engineer (Web & Mobile Developer) [@Financial Times](https://www.ft.com/) familiar with a wide range of programming utilities and languages. Knowledgeable of backend & frontend & mobile development requirements. Able to handle any part of the process with ease. Collaborative team player with excellent technical abilities.
 
 - 📱 Mobile (React-Native)
-- 💻 FrontEnd (React js - Vue js)
+- 💻 FrontEnd (React js - Next js - Vue js)
 - ⚙ Backend (PHP - Laravel - Node Js)
 - 🖥️ Desktop (Java)
 - 🏠 🚗 Embedded/IOT (C/C++ - Embedded C)
