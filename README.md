@@ -9,9 +9,11 @@
       <img src="https://komarev.com/ghpvc/?username=SherifMega&color=yellow" alt="Profile views" />
 
   </a>
-  </p>
+</p>
+
+<img src="https://yt3.googleusercontent.com/ytc/AIdro_ndI2xm7Vhj_ZGTdd1hmWfv40vS_Pj1K9S31-NSBatSCLZb=s900-c-k-c0x00ffffff-no-rj" align="right" width="10%"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm1tX0dyWDFYrtHCCpLK0xy9i8hjdJYxfQJw&s" align="right" width="10%" />
   
-  <img src="https://raw.githubusercontent.com/SherifMega/SherifMega/main/profile.webp" align="right" width="25%"/>
 
 Software Engineer (Web & Mobile Developer) [@Financial Times](https://www.ft.com/) familiar with a wide range of programming utilities and languages. Knowledgeable of backend & frontend & mobile development requirements. Able to handle any part of the process with ease. Collaborative team player with excellent technical abilities.
 
